@@ -1,7 +1,8 @@
-arm.irg
-autodoc
-config.mk
+disasm/
 include/
+sim/
 src/
-sim
-nmp/state.nmp
+nmp/
+arm.irg
+arm.nml
+config.mk
